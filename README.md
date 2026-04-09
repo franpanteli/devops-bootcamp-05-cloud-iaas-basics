@@ -11,4 +11,4 @@ It also contains the [exercises](./Exercises.md) for this module and the [NodeJS
 And finally it contains the following demo project:
 - [Deploy application on DigitalOcean server](./demo-project/1-deploy-app-on-droplet/)
 
-<< Back to [DevOps Bootcamp Module Overview](https://github.com/fsiegrist/twn-devops-bootcamp)
+<< Back to [DevOps Bootcamp Module Overview](https://github.com/franpanteli/twn-devops-bootcamp/tree/main)
